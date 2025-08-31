@@ -1,4 +1,10 @@
-const readline = require("readline-sync")
+//Install readline-sync to run this project
+
+
+const readline = require("readline-sync") //import
+
+
+
 console.log("===========================================================================================================")
 console.log(`▌ ▌   ▜               ▐      ▐  ▌      ▙▗▌   ▜▐  ▗    ▜ ▗       ▐  ▗        ▀▛▘  ▌  ▜     ▌ ▌▗              
 ▌▖▌▞▀▖▐ ▞▀▖▞▀▖▛▚▀▖▞▀▖ ▜▀ ▞▀▖ ▜▀ ▛▀▖▞▀▖ ▌▘▌▌ ▌▐▜▀ ▄ ▛▀▖▐ ▄ ▞▀▖▝▀▖▜▀ ▄ ▞▀▖▛▀▖  ▌▝▀▖▛▀▖▐ ▞▀▖ ▚▗▘▄ ▞▀▖▌  ▌▞▀▖▙▀▖
